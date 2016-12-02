@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="NChart3D">
+  <name>NChart3D</name>
+  <publisher>Nulana LTD.</publisher>
+  <publisher-url>http://nchart3d.com</publisher-url>
+  <docs-url>http://nchart3d.com</docs-url>
+  <version>2.7</version>
+  <summary>Versatile chart and graph library that enables stunning 2D and 3D data visualization.</summary>
+  <screenshots>
+    <img src="screenshots/screenshot1.jpg" title="screenshot1" />
+    <img src="screenshots/screenshot2.jpg" title="screenshot2" />
+    <img src="screenshots/screenshot3.jpg" title="screenshot3" />
+    <img src="screenshots/screenshot4.jpg" title="screenshot4" />
+    <img src="screenshots/screenshot5.jpg" title="screenshot5" />
+    <img src="screenshots/screenshot6.jpg" title="screenshot6" />
+    <img src="screenshots/screenshot7.jpg" title="screenshot7" />
+  </screenshots>
+  <samples>
+    <sample id="iOS.Samples">
+      <name>Xamarin.iOS Sample</name>
+      <summary>Xamarin.iOS Sample</summary>
+    </sample>
+    <sample id="Android.Samples">
+      <name>Xamarin.Android Sample</name>
+      <summary>Xamarin.Android Sample</summary>
+    </sample>
+  </samples>
+</component>
